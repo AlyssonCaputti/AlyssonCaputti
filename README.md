@@ -63,6 +63,8 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
 
 <h3>GitHub</h3>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AlyssonCaputti&show_icons=true&theme=dark&hide_border=true&icon_color=cc0000&tit
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlyssonCaputti&theme=2077" width="100%"/>
+</p>
+
+<table align="cent
