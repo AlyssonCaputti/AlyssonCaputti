@@ -63,5 +63,6 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
 
 <h3>GitHub</h3>
 
-<table align="center"><tr>
-<td><img src="https://streak-stats.demolab.com?user=AlyssonCaputti&theme=dark&hide_border=true&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AlyssonCaputti&show_icons=true&theme=dark&hide_border=true&icon_color=cc0000&tit
