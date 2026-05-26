@@ -67,4 +67,4 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlyssonCaputti&theme=2077" width="100%"/>
 </p>
 
-<table align="cent
+<p align="center">
