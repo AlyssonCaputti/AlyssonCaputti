@@ -1,70 +1,69 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=140&section=header&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2222&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Alysson+%F0%9F%91%8B;Data+Engineer+%7C+Competitive+Programmer;Pipelines%2C+algoritmos+e+muito+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
-</p>
-
-<br/>
+<h1>Alysson Caputti</h1>
 
 <p>
-Sou engenheiro de dados — construo pipelines, modelo dados e transformo informação bruta em algo que realmente faz sentido para o negócio.
+  Data Engineer · Competitive Programmer<br/>
+  Curitiba, Brasil
 </p>
 
 <p>
-Fora do trabalho, participo de campeonatos de programação competitiva. Gosto do desafio de resolver problemas complexos com eficiência, e isso reflete diretamente na forma como escrevo código no dia a dia.
-</p>
-
-<p>
-É uma combinação que funciona bem: a engenharia me ensina a pensar em escala, e a programação competitiva me ensina a pensar rápido.
+  Construo pipelines de dados, APIs e soluções que funcionam em produção.<br/>
+  Nas horas livres, resolvo problemas de algoritmos em campeonatos de programação competitiva —<br/>
+  o que me faz escrever código mais eficiente no trabalho.
 </p>
 
 <hr/>
 
-<h3>Stack</h3>
+<h3>O que eu uso</h3>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-cc0000?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-a00000?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-b30000?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-cc0000?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-a00000?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-b30000?style=flat&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-cc0000?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-a00000?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-b30000?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-cc0000?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-a00000?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-b30000?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-cc0000?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-a00000?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-b30000?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-cc0000?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-cc0000?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-a00000?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <hr/>
 
-<h3>Competitive Programming</h3>
+<h3>O que eu construo</h3>
 
-<p>
-  Resolvo problemas de algoritmos e estruturas de dados nas principais plataformas. Foco em complexidade, otimização e clareza — habilidades que carrego para qualquer código que escrevo.
-</p>
-
-<p align="left">
-  <a href="https://leetcode.com/AlyssonCaputti" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-cc0000?style=flat&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/AlyssonCaputti" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-a00000?style=flat&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AlyssonCaputti/Competitive-programming" target="_blank">
-    <img src="https://img.shields.io/badge/Repositório-b30000?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AlyssonCaputti/fastapi-dashboard-hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlyssonCaputti&repo=fastapi-dashboard-hub&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AlyssonCaputti/Competitive-programming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlyssonCaputti&repo=Competitive-programming&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
-<h3>GitHub</h3>
+<h3>Atividade</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlyssonCaputti&theme=2077" width="100%"/>
 </p>
 
-<p align="center">
+<hr/>
+
+<p>
+  <a href="mailto:alyssoncaputti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-cc0000?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alyssoncaputti">
+    <img src="https://img.shields.io/badge/LinkedIn-a00000?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
