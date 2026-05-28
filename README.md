@@ -1,53 +1,57 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=140&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=120&section=header&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2222&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Alysson+%F0%9F%91%8B;Data+Engineer+%7C+Competitive+Programmer;Pipelines%2C+algoritmos+e+muito+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
-</p>
-
-<br/>
+<h2>Alysson Caputti — Data Engineer</h2>
 
 <p>
-Sou engenheiro de dados — construo pipelines, modelo dados e transformo informação bruta em algo que realmente faz sentido para o negócio.
+  End-to-end data platforms · AI-driven engineering · Competitive Programming<br/>
+  Curitiba, Brasil
 </p>
 
-<p>
-Fora do trabalho, participo de campeonatos de programação competitiva. Gosto do desafio de resolver problemas complexos com eficiência, e isso reflete diretamente na forma como escrevo código no dia a dia.
-</p>
+<hr/>
+
+<h3>What I build</h3>
 
 <p>
-É uma combinação que funciona bem: a engenharia me ensina a pensar em escala, e a programação competitiva me ensina a pensar rápido.
+  I design and ship data pipelines from source to insight — production-grade, tested, and built to scale.<br/>
+  I also build AI engineering workflows that treat LLMs as active contributors in the development lifecycle.
 </p>
+
+<ul>
+  <li>Designed full pipeline <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — eliminated 100% of manual data exports</li>
+  <li>Built and operate <strong>AI agents</strong> for code generation, SQL modeling, pipeline automation, and data validation using LLM APIs (Anthropic)</li>
+  <li>Diagnosed and resolved critical production bug in data ingestion — implemented regression tests, improving pipeline reliability</li>
+  <li>Applied <strong>dbt</strong> for modular modeling, testing, and lineage tracking in production environments</li>
+</ul>
 
 <hr/>
 
 <h3>Stack</h3>
 
-<p><strong>Linguagens</strong></p>
-<p align="left">
+<p><strong>Core</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Python-cc0000?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-a00000?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-b30000?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-cc0000?style=flat&logo=scala&logoColor=white"/>
-</p>
-
-<p><strong>Engenharia de dados</strong></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Spark-cc0000?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-a00000?style=flat&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-b30000?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-cc0000?style=flat&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-a00000?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-b30000?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-cc0000?style=flat&logoColor=white"/>
 </p>
 
-<p><strong>Cloud</strong></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-cc0000?style=flat&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-a00000?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-b30000?style=flat&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-cc0000?style=flat&logo=googlebigquery&logoColor=white"/>
+<p><strong>Cloud & Data</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/GCP-cc0000?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-a00000?style=flat&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-b30000?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-cc0000?style=flat&logo=powerbi&logoColor=white"/>
 </p>
 
-<p><strong>Bancos de dados</strong></p>
-<p align="left">
-  <img src="ht
+<p><strong>AI Engineering</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/LLM%20APIs-cc0000?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-a00000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agent%20Workflows-b30000?style=flat&logoColor=white"/>
+</p>
+
+<p><strong>Infra & Workflow</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-cc0000?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-a00000?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-b30000?style=flat&logo=li
