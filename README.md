@@ -22,30 +22,32 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
 
 <h3>Stack</h3>
 
+<p><strong>Linguagens</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-cc0000?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-a00000?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-b30000?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-cc0000?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-a00000?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-b30000?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-cc0000?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-a00000?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-b30000?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-cc0000?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-a00000?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-b30000?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-cc0000?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-a00000?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-cc0000?style=flat&logo=scala&logoColor=white"/>
 </p>
 
-<hr/>
-
-<h3>Competitive Programming</h3>
-
-<p>
-  Resolvo problemas de algoritmos e estruturas de dados nas principais plataformas. Foco em complexidade, otimização e clareza — habilidades que carrego para qualquer código que escrevo.
-</p>
-
+<p><strong>Engenharia de dados</strong></p>
 <p align="left">
-  
+  <img src="https://img.shields.io/badge/Apache%20Spark-cc0000?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-a00000?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-b30000?style=flat&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-cc0000?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-a00000?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-b30000?style=flat&logo=databricks&logoColor=white"/>
+</p>
+
+<p><strong>Cloud</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-cc0000?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-a00000?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-b30000?style=flat&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redshift-cc0000?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+<p><strong>Bancos de dados</strong></p>
+<p align="left">
+  <img src="https://img.s
