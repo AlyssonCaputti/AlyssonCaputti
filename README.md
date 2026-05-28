@@ -25,7 +25,7 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
 <p><strong>Linguagens</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-cc0000?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-a00000?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-a00000?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-b30000?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-cc0000?style=flat&logo=scala&logoColor=white"/>
 </p>
@@ -37,17 +37,17 @@ Fora do trabalho, participo de campeonatos de programação competitiva. Gosto d
   <img src="https://img.shields.io/badge/dbt-b30000?style=flat&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-cc0000?style=flat&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-a00000?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-b30000?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-b30000?style=flat&logo=databricks&logoColor=white"/>
 </p>
 
 <p><strong>Cloud</strong></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-cc0000?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-a00000?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-cc0000?style=flat&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-a00000?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-b30000?style=flat&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redshift-cc0000?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-cc0000?style=flat&logo=googlebigquery&logoColor=white"/>
 </p>
 
 <p><strong>Bancos de dados</strong></p>
 <p align="left">
-  <img src="https://img.s
+  <img src="ht
