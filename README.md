@@ -1,26 +1,26 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=120&section=header&animation=fadeIn"/>
 
-<h2>Alysson Caputti — Data Engineer</h2>
+<h2>Alysson Caputti — Engenheiro de Dados</h2>
 
 <p>
-  End-to-end data platforms · AI-driven engineering · Competitive Programming<br/>
+  Plataformas de dados end-to-end · Engenharia com IA · Programação Competitiva<br/>
   Curitiba, Brasil
 </p>
 
 <hr/>
 
-<h3>What I build</h3>
+<h3>O que eu construo</h3>
 
 <p>
-  I design and ship data pipelines from source to insight — production-grade, tested, and built to scale.<br/>
-  I also build AI engineering workflows that treat LLMs as active contributors in the development lifecycle.
+  Projeto e entrego pipelines de dados do começo ao fim — prontos para produção, testados e construídos para escalar.<br/>
+  Também desenvolvo fluxos de engenharia com IA, usando LLMs como colaboradores ativos no ciclo de desenvolvimento.
 </p>
 
 <ul>
-  <li>Designed full pipeline <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — eliminated 100% of manual data exports</li>
-  <li>Built and operate <strong>AI agents</strong> for code generation, SQL modeling, pipeline automation, and data validation using LLM APIs (Anthropic)</li>
-  <li>Diagnosed and resolved critical production bug in data ingestion — implemented regression tests, improving pipeline reliability</li>
-  <li>Applied <strong>dbt</strong> for modular modeling, testing, and lineage tracking in production environments</li>
+  <li>Projetei pipeline completo <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — eliminou 100% das exportações manuais de dados</li>
+  <li>Construo e opero <strong>agentes de IA</strong> para geração de código, modelagem SQL, automação de pipelines e validação de dados com APIs de LLM (Anthropic)</li>
+  <li>Identifiquei e corrigi bug crítico em produção na ingestão de dados — implementei testes de regressão e aumentei a confiabilidade do pipeline</li>
+  <li>Apliquei <strong>dbt</strong> para modelagem modular, testes e rastreamento de linhagem em ambiente de produção</li>
 </ul>
 
 <hr/>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-cc0000?style=flat&logoColor=white"/>
 </p>
 
-<p><strong>Cloud & Data</strong></p>
+<p><strong>Cloud & Dados</strong></p>
 <p>
   <img src="https://img.shields.io/badge/GCP-cc0000?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-a00000?style=flat&logo=googlebigquery&logoColor=white"/>
@@ -43,15 +43,14 @@
   <img src="https://img.shields.io/badge/Power%20BI-cc0000?style=flat&logo=powerbi&logoColor=white"/>
 </p>
 
-<p><strong>AI Engineering</strong></p>
+<p><strong>Engenharia com IA</strong></p>
 <p>
   <img src="https://img.shields.io/badge/LLM%20APIs-cc0000?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-a00000?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agent%20Workflows-b30000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-b30000?style=flat&logoColor=white"/>
 </p>
 
-<p><strong>Infra & Workflow</strong></p>
+<p><strong>Infra & Ferramentas</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-cc0000?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-a00000?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-b30000?style=flat&logo=li
+  <img src="https://img.shields.io/badge/Docker-a00000?style=flat&
