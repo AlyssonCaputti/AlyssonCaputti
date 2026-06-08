@@ -111,9 +111,6 @@
 <hr/>
 
 <p>
-  <a href="mailto:alyssoncaputti@gmail.com">
-    <img src="https://img.shields.io/badge/alyssoncaputti@gmail.com-cc0000?style=flat&logo=gmail&logoColor=white"/>
-  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alyssoncaputti">
     <im
