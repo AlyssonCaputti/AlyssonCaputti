@@ -75,8 +75,9 @@
 <h3>Programação Competitiva</h3>
 
 <p>
-  Estudo algoritmos e estruturas de dados com consistência — não só pra competir, mas porque entender complexidade muda como você pensa sobre qualquer problema.
-  Participo de campeonatos e mantenho um repositório organizado com soluções comentadas.
+  Resolvo problemas de algoritmos todo dia — LeetCode, Codeforces, campeonatos.<br/>
+  Não é só hobby: pensar em O(n log n) vs O(n²) muda como você escreve qualquer código, não só o de competição.<br/>
+  Tenho um repositório com as soluções comentadas — abordagem, complexidade e o raciocínio por trás de cada uma.
 </p>
 
 <p>
@@ -96,7 +97,7 @@
 <h3>Atualmente estudando</h3>
 
 <p>
-  Designing Data-Intensive Applications · LeetCode diário · Spark internals · System Design de dados
+  <em>Designing Data-Intensive Applications</em> (Kleppmann) · Spark internals · System Design de dados · LeetCode todo dia sem falta
 </p>
 
 <hr/>
@@ -115,6 +116,4 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alyssoncaputti">
-    <img src="https://img.shields.io/badge/LinkedIn-a00000?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+    <im
