@@ -3,8 +3,8 @@
 <h2>Alysson Caputti</h2>
 
 <p>
-  Engenheiro de Dados · Curitiba, Brasil<br/>
-  Estudando todos os dias. Construindo coisas que funcionam de verdade.
+  Data Engineer · Curitiba, Brasil<br/>
+  Construo pipelines, modelo dados e resolvo problemas de algoritmos nas horas vagas.
 </p>
 
 <hr/>
@@ -12,9 +12,9 @@
 <h3>Sobre mim</h3>
 
 <p>
-  Trabalho com engenharia de dados — projeto pipelines, modelo dados e faço a informação chegar onde precisa, do jeito certo.<br/>
-  Uso IA como parte do meu fluxo de desenvolvimento, não como atalho — como ferramenta pra escrever código melhor e mais rápido.<br/>
-  Nas horas fora do trabalho, resolvo problemas de algoritmos. Acredito que pensar bem sobre complexidade muda a qualidade do código que você escreve no dia a dia.
+  Trabalho com engenharia de dados — do pipeline cru até o dado pronto pra ser usado.<br/>
+  Gosto de código limpo, sistemas observáveis e de entender <em>por que</em> algo quebra antes de sair corrigindo.<br/>
+  Uso IA no meu fluxo de trabalho do dia a dia — não como muleta, mas como um pair programmer que nunca dorme.
 </p>
 
 <p><strong>Algumas coisas que já construí:</strong></p>
@@ -120,4 +120,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:8b0000,100:1a0000&height=100&section=footer"/>
-
