@@ -105,7 +105,7 @@
 <h3>Atividade</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlyssonCaputti&theme=2077" width="100%"/>
+  
 </p>
 
 <hr/>
