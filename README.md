@@ -17,12 +17,12 @@
   Uso IA no meu fluxo de trabalho do dia a dia — não como muleta, mas como um pair programmer que nunca dorme.
 </p>
 
-<p><strong>Algumas coisas que já construí:</strong></p>
+<p><strong>Coisas que já coloquei em produção:</strong></p>
 <ul>
-  <li>Pipeline completo <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — zerou 100% das exportações manuais de dados</li>
-  <li>Agentes de IA para modelagem SQL, automação de pipelines e validação de dados usando LLM APIs (Anthropic)</li>
-  <li>Corrigi bug crítico em ingestão de dados em produção e implementei testes de regressão pra não voltar mais</li>
-  <li>Modelagem modular com dbt, com testes e linhagem rastreada em ambiente real</li>
+  <li>Pipeline <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — zero exportação manual, dados em tempo real pra vendas, estoque e marketing</li>
+  <li>Agentes de IA com LLM APIs (Anthropic) pra modelagem SQL, automação de pipelines e validação de dados — IA como parte do fluxo, não enfeite</li>
+  <li>Debuguei um problema de parsing de datas no pandas que tava silenciosamente corrompendo dados em prod. Escrevi testes de regressão. Não voltou mais.</li>
+  <li>dbt em produção: modelos modulares, testes de qualidade, linhagem rastreável. Nada de SQL solto sem contexto.</li>
 </ul>
 
 <hr/>
@@ -118,5 +118,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-a00000?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:8b0000,100:1a0000&height=100&section=footer"/>
