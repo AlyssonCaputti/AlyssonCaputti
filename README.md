@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=120&section=header&animation=fadeIn"/>
 
-<h2>Alysson Cautti</h2>
+<h2>Alysson Caputti</h2>
 
 <p>
   Data Engineer and Data Analyst · Curitiba, Brasil<br/>
