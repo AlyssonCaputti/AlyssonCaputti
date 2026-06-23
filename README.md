@@ -4,7 +4,7 @@
 
 <p>
   Data Engineer and Data Analyst · Curitiba, Brasil<br/>
-  Construo pipelines, modelo dados e resolvo problemas de algoritmos nas hor vagas.
+  Construo pipelines, modelo dados e resolvo problemas de algoritmos nas hora vagas.
 </p>
 
 <hr/>
