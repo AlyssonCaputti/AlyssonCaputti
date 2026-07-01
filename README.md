@@ -12,7 +12,7 @@
 <h3>Sobre mim</h3>
 
 <p>
-  Trabalho com engenharia de dados e analise de dados — do pipelines cru até o dado pronto pra ser usado<br/>
+  Trabalho com engenharia de dados e analise de dados — <br/>
   Gosto de código limpo, sistemas observáveis e de entender <em>por que</em> algo quebra antes de sair corrigindo.<br/>
   Uso IA no meu fluxo de trabalho do dia a dia — não como muleta, mas como um pair programmer que nunca dorme.
 </p>
