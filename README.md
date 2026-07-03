@@ -3,7 +3,7 @@
 <h2>Alysson Caputti</h2>
 
 <p>
-  Data Engineer and Data Analyst · Curitiba, Brasil<br/>
+  <br/>
   Construo pipelines, modelo dados e resolvo problemas de algoritmos nas horas vagas.
 </p>
 
