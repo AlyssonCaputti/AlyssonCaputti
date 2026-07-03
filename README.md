@@ -19,10 +19,7 @@
 
 <p><strong>Coisas que já coloquei em produção:</strong></p>
 <ul>
-  <li>Pipeline <strong>SAP B1 → MySQL DW → dbt Core → Power BI</strong> — zero exportação manual, dados em tempo real pra vendas, estoque e marketing</li>
-  <li>Agentes de IA com LLM APIs (Anthropic) pra modelagem SQL, automação de pipelines e validação de dados — IA como parte do fluxo, não enfeite</li>
-  <li>Debuguei um problema de parsing de datas no pandas que tava silenciosamente corrompendo dados em prod. Escrevi testes de regressão. Não voltou mais.</li>
-  <li>dbt em produção: modelos modulares, testes de qualidade, linhagem rastreável.</li>
+
 </ul>
 
 <hr/>
