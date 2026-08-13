@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=E05A2B&center=true&vCenter=true&width=700&height=45&lines=Alysson+Caputti;Data+Engineer+%2F+Data+Analyst;do+dado+cru+ao+dado+confi%C3%A1vel" alt="Alysson Caputti — Data Engineer / Data Analyst"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=E05A2B&center=true&vCenter=true&width=700&height=45&lines=Alysson+Caputti;Data+Engineer+%2F+Data+Analyst;do+dado+cru+ao+dado+confi%C3%A1vel" alt="Alysson Caputti, Data Engineer / Data Analyst"/>
 
 <p>
   <a href="https://www.linkedin.com/in/alyssoncaputti"><img src="https://img.shields.io/badge/LinkedIn-E05A2B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -27,7 +27,7 @@
 
 ## Oi, tudo bem?
 
-Trabalho com engenharia e análise de dados — do dado cru até o dado pronto pra ser usado.
+Trabalho com engenharia e análise de dados, do dado cru até o dado pronto pra ser usado.
 Gosto de código limpo, sistema observável e de entender *por que* algo quebra antes de sair corrigindo.
 
 Uso IA no fluxo do dia a dia. Não como muleta: como um pair programmer que nunca dorme.
@@ -35,7 +35,7 @@ Uso IA no fluxo do dia a dia. Não como muleta: como um pair programmer que nunc
 > [!NOTE]
 > **O que eu já coloquei em produção**
 >
-> - Pipeline **SAP B1 → MySQL DW → dbt Core → Power BI** — zero exportação manual, dado fresco pra vendas, estoque e marketing.
+> - Pipeline **SAP B1 → MySQL DW → dbt Core → Power BI**: zero exportação manual, dado fresco pra vendas, estoque e marketing.
 > - Agentes de IA com LLM APIs (Anthropic) pra modelagem SQL, automação de pipeline e validação de dados.
 > - Achei um parsing de datas no pandas que corrompia dado em silêncio. Corrigi, escrevi teste de regressão, não voltou mais.
 > - dbt em produção: modelo modular, teste de qualidade, linhagem rastreável.
@@ -45,24 +45,24 @@ Uso IA no fluxo do dia a dia. Não como muleta: como um pair programmer que nunc
 Cada um resolve um problema diferente. Abra o que te interessar:
 
 <details open>
-<summary><b>🔧 sap-mysql-etl</b> — ETL que sobrevive a uma origem instável</summary>
+<summary><b>🔧 sap-mysql-etl</b>: ETL que sobrevive a uma origem instável</summary>
 
 <br/>
 
 Todo dia ele lê exportação de ERP, trata e carrega num MySQL que alimenta dashboard e forecast.
-O problema interessante não é volume — é que **a origem muda de formato sem avisar**: encoding, separador, nome de coluna, formato numérico.
+O problema interessante não é volume, é que **a origem muda de formato sem avisar**: encoding, separador, nome de coluna, formato numérico.
 
 O que tem dentro:
 
 | | |
 |---|---|
 | **Contrato de schema** | declara o que espera da origem e aborta com mensagem útil quando quebra |
-| **4 estratégias de carga** | `replace` · `truncate` · `date_range` · `upsert` — todas seguras pra rodar duas vezes |
+| **4 estratégias de carga** | `replace` · `truncate` · `date_range` · `upsert` (todas seguras pra rodar duas vezes) |
 | **Falha alta, nunca silenciosa** | 3 correções de bug que passavam batido no log e no exit code |
 | **Testável sem infra** | a suíte roda em ~1s, sem banco e sem rede |
 
 A história favorita do repo: o detector de separador fazia `split(",")` cru, então
-todo CSV **bem-formado** com vírgula dentro de aspas parecia quebrado — e o
+todo CSV **bem-formado** com vírgula dentro de aspas parecia quebrado, e o
 reconstrutor heurístico **descartava 33% da base** com um aviso no log.
 Achei investigando lentidão, não erro.
 
@@ -71,7 +71,7 @@ Achei investigando lentidão, não erro.
 </details>
 
 <details>
-<summary><b>🚗 frota-brasil-pipeline</b> — 22M linhas de frota nacional cruzadas com FIPE</summary>
+<summary><b>🚗 frota-brasil-pipeline</b>: 22M linhas de frota nacional cruzadas com FIPE</summary>
 
 <br/>
 
@@ -87,31 +87,31 @@ FIPE API ─────────┘        └─> stg_fipe ──┼─> ma
 - Camadas `staging → intermediate → marts` no dbt, com de-para de marca como seed
 - Teste de **granularidade** (não só `not_null`): a combinação marca+modelo+ano tem que ser única
 - CI que sobe Postgres, roda o pipeline na amostra e valida com `dbt test`
-- 93,1% de cobertura contra o total oficial de veículos leves — e o gap está documentado
+- 93,1% de cobertura contra o total oficial de veículos leves, e o gap está documentado
 
 `Python` `PostgreSQL` `dbt` `Airflow` `Docker`
 
 </details>
 
 <details>
-<summary><b>💱 etl-cotacao-moedas</b> — ETL enxuto, feito certo</summary>
+<summary><b>💱 etl-cotacao-moedas</b>: ETL enxuto, feito certo</summary>
 
 <br/>
 
 Cotação de moeda de API pública → tratamento → Postgres em Docker. Pequeno de propósito,
 mas com as decisões que importam: `ON CONFLICT` pra não duplicar em reexecução e
-`NUMERIC` pra valor monetário (nunca `FLOAT` — erro de arredondamento em dinheiro não perdoa).
+`NUMERIC` pra valor monetário (nunca `FLOAT`: erro de arredondamento em dinheiro não perdoa).
 
 `Python` `PostgreSQL` `Docker`
 
 </details>
 
 <details>
-<summary><b>📊 analise-ecommerce-sql</b> — análise de negócio em SQL puro</summary>
+<summary><b>📊 analise-ecommerce-sql</b>: análise de negócio em SQL puro</summary>
 
 <br/>
 
-Faturamento, produto, cliente e cohort sobre um banco de e-commerce — com um arquivo
+Faturamento, produto, cliente e cohort sobre um banco de e-commerce, com um arquivo
 de checagem de qualidade de dados separado, porque conferir a base antes de tirar
 conclusão dela deveria ser padrão.
 
@@ -120,7 +120,7 @@ conclusão dela deveria ser padrão.
 </details>
 
 <details>
-<summary><b>🤖 sql-agent</b> — pergunta em português, resposta em dado</summary>
+<summary><b>🤖 sql-agent</b>: pergunta em português, resposta em dado</summary>
 
 <br/>
 
@@ -132,7 +132,7 @@ em modo somente leitura e responde com base no resultado. Sem alucinar número.
 </details>
 
 <details>
-<summary><b>🧩 Competitive-programming</b> — algoritmo todo dia</summary>
+<summary><b>🧩 Competitive-programming</b>: algoritmo todo dia</summary>
 
 <br/>
 
@@ -160,7 +160,7 @@ Pensar em O(n log n) vs O(n²) muda como você escreve qualquer código, não s�
 ## No que estou trabalhando
 
 <details>
-<summary><b>Observabilidade de ETL</b> — “o pipeline parou? quando? por quê?”</summary>
+<summary><b>Observabilidade de ETL</b>: “o pipeline parou? quando? por quê?”</summary>
 
 <br/>
 
@@ -171,7 +171,7 @@ nunca mais responder com “alguém reclamou que o dado tá velho”.
 </details>
 
 <details>
-<summary><b>Reescrita do ETL de produção</b> — de script para pipeline</summary>
+<summary><b>Reescrita do ETL de produção</b>: de script para pipeline</summary>
 
 <br/>
 
@@ -207,6 +207,6 @@ Certificação **DP-700** (Fabric Data Engineer) · GCP / BigQuery · LeetCode t
 <a href="https://github.com/AlyssonCaputti?tab=repositories"><img src="https://img.shields.io/badge/Repos-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
 
 <br/><br/>
-<sub><code>$ exit 0</code> — mas só quando o dado realmente chegou</sub>
+<sub><code>$ exit 0</code>, mas só quando o dado realmente chegou</sub>
 
 </div>
