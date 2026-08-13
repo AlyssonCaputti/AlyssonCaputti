@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alyssoncaputti">
+  <a href="https://www.linkedin.com/in/avcaputti">
     <img src="https://img.shields.io/badge/LinkedIn-cc0000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:alysson.farias@gpcorpbr.com">
