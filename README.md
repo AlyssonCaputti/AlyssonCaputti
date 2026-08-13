@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/avcaputti">
     <img src="https://img.shields.io/badge/LinkedIn-cc0000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:alysson.farias@gpcorpbr.com">
+  <a href="mailto:alyssoncaputti@gmail.com">
     <img src="https://img.shields.io/badge/Email-a00000?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/AlyssonCaputti">
