@@ -16,10 +16,10 @@
 >>> perfil.resumo()
 {
     'cargo':      'Data Engineer / Data Analyst',
-    'stack':      ['Python', 'SQL', 'dbt', 'Airflow', 'Docker'],
+    'stack':      ['Python', 'SQL', 'PySpark', 'Airflow', 'dbt', 'GCP'],
     'em_prod':    'SAP B1 -> MySQL DW -> dbt -> Power BI',
     'obsessao':   'pipeline que falha alto, nunca em silêncio',
-    'estudando':  ['DDIA (Kleppmann)', 'Spark internals', 'DP-700'],
+    'estudando':  ['DDIA (Kleppmann)', 'Spark internals'],
 }
 >>> perfil.regra_numero_um()
 'um pipeline que roda não é um pipeline que funciona'
@@ -147,10 +147,11 @@ Pensar em O(n log n) vs O(n²) muda como você escreve qualquer código, não s�
 ## Ferramentas do dia a dia
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,docker,linux,git,github,vscode&theme=dark" alt="Python, PostgreSQL, MySQL, SQLite, Docker, Linux, Git, GitHub, VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,docker,linux,git,github,vscode,gcp&theme=dark" alt="Python, PostgreSQL, MySQL, SQLite, Docker, Linux, Git, GitHub, VS Code, GCP"/>
 <br/>
 <img src="https://img.shields.io/badge/dbt-E05A2B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
 <img src="https://img.shields.io/badge/Airflow-C24020?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/PySpark-9E3318?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/pandas-9E3318?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/Power%20BI-E05A2B?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
 <img src="https://img.shields.io/badge/FastAPI-C24020?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -186,7 +187,7 @@ provar que o dado chegou certo, não só que o processo terminou com exit 0.
 <br/>
 
 *Designing Data-Intensive Applications* (Kleppmann) · Spark internals · System design de dados ·
-Certificação **DP-700** (Fabric Data Engineer) · GCP / BigQuery · LeetCode todo dia
+GCP / BigQuery · LeetCode todo dia
 
 </details>
 
@@ -195,6 +196,7 @@ Certificação **DP-700** (Fabric Data Engineer) · GCP / BigQuery · LeetCode t
 <img src="https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-2B2B2B?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Computing Foundations"/>
 <img src="https://img.shields.io/badge/Data,%20ML%20%26%20AI%20no%20Google%20Cloud-2B2B2B?style=flat-square&logo=googlecloud&logoColor=white" alt="Data, ML & AI no Google Cloud"/>
 <img src="https://img.shields.io/badge/Cloud%20Computing%20Fundamentals-2B2B2B?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Computing Fundamentals"/>
+<img src="https://img.shields.io/badge/Microsoft%20Certified-DP--700%20Fabric%20Data%20Engineer-2B2B2B?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Fabric Data Engineer Associate (DP-700)"/>
 
 ---
 
