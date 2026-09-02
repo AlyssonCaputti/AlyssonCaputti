@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=E05A2B&center=true&vCenter=true&width=700&height=45&lines=Alysson+Caputti;Data+Engineer+%2F+Data+Analyst;do+dado+cru+ao+dado+confi%C3%A1vel" alt="Alysson Caputti, Data Engineer / Data Analyst"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=E05A2B&center=true&vCenter=true&width=700&height=45&lines=Alysson+Caputti;Data+Engineer;do+dado+cru+ao+dado+confi%C3%A1vel" alt="Alysson Caputti, Data Engineer"/>
 
 <p>
   <a href="https://www.linkedin.com/in/alyssoncaputti"><img src="https://img.shields.io/badge/LinkedIn-E05A2B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,36 +15,26 @@
 >>> from alysson import perfil
 >>> perfil.resumo()
 {
-    'cargo':      'Data Engineer / Data Analyst',
-    'stack':      ['Python', 'SQL', 'PySpark', 'Airflow', 'dbt', 'GCP'],
-    'em_prod':    'SAP B1 -> MySQL DW -> dbt -> Power BI',
-    'obsessao':   'pipeline que falha alto, nunca em silêncio',
-    'estudando':  ['DDIA (Kleppmann)', 'Spark internals'],
+    'cargo':     'Data Engineer @ GP Corp BR',
+    'stack':     ['Python', 'SQL', 'PySpark', 'Airflow', 'dbt', 'GCP'],
+    'todo_dia':  'um pouco de LeetCode, um pouco de dado tratado',
+    'porque':    'porque eu gosto mesmo é disso',
 }
->>> perfil.regra_numero_um()
-'um pipeline que roda não é um pipeline que funciona'
 ```
 
 ## Oi, tudo bem?
 
-Trabalho com engenharia e análise de dados, do dado cru até o dado pronto pra ser usado.
-Gosto de código limpo, sistema observável e de entender *por que* algo quebra antes de sair corrigindo.
+Sou o Alysson. Engenheiro de dados que estuda todo dia porque programar é a parte boa do meu dia, não uma obrigação.
 
-Uso IA no fluxo do dia a dia. Não como muleta: como um pair programmer que nunca dorme.
+Hoje construo pipelines na GP Corp BR, do SAP até o dado pronto pra alguém usar. Fora do trabalho, treino algoritmo no LeetCode e Codeforces, e monto meu próprio roadmap de estudo pra virar um engenheiro cada vez melhor.
 
-> [!NOTE]
-> **O que eu já coloquei em produção**
->
-> - Pipeline **SAP B1 → MySQL DW → dbt Core → Power BI**: zero exportação manual, dado fresco pra vendas, estoque e marketing.
-> - Agentes de IA com LLM APIs (Anthropic) pra modelagem SQL, automação de pipeline e validação de dados.
-> - Achei um parsing de datas no pandas que corrompia dado em silêncio. Corrigi, escrevi teste de regressão, não voltou mais.
-> - dbt em produção: modelo modular, teste de qualidade, linhagem rastreável.
+Dá uma olhada no que eu venho construindo:
 
 ## Projetos
 
 Cada um resolve um problema diferente. Abra o que te interessar:
 
-<details open>
+<details>
 <summary><b>🔧 sap-mysql-etl</b>: ETL que sobrevive a uma origem instável</summary>
 
 <br/>
@@ -158,38 +148,11 @@ Pensar em O(n log n) vs O(n²) muda como você escreve qualquer código, não s�
 <img src="https://img.shields.io/badge/Anthropic%20API-9E3318?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API"/>
 </div>
 
-## No que estou trabalhando
+## Sempre estudando
 
-<details>
-<summary><b>Observabilidade de ETL</b>: “o pipeline parou? quando? por quê?”</summary>
-
-<br/>
-
-Tabela de controle de execução (início, fim, linhas afetadas, status) e um painel que
-responde essas três perguntas sem ninguém precisar abrir log. A pergunta que quero
-nunca mais responder com “alguém reclamou que o dado tá velho”.
-
-</details>
-
-<details>
-<summary><b>Reescrita do ETL de produção</b>: de script para pipeline</summary>
-
-<br/>
-
-Saindo do monolito para camadas testáveis com orquestração declarada. A régua é poder
-provar que o dado chegou certo, não só que o processo terminou com exit 0.
-
-</details>
-
-<details>
-<summary><b>Estudo contínuo</b></summary>
-
-<br/>
-
-*Designing Data-Intensive Applications* (Kleppmann) · Spark internals · System design de dados ·
-GCP / BigQuery · LeetCode todo dia
-
-</details>
+Curioso por natureza. A lista de hoje: **GCP / BigQuery**, internals do **Spark**, arquitetura
+distribuída, *Designing Data-Intensive Applications* (Kleppmann) e um problema novo por dia
+no LeetCode. O `cs-data-roadmap` aqui do GitHub é onde eu registro tudo isso.
 
 ## Certificações
 
@@ -207,8 +170,5 @@ GCP / BigQuery · LeetCode todo dia
 <a href="https://www.linkedin.com/in/alyssoncaputti"><img src="https://img.shields.io/badge/LinkedIn-E05A2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alysson.farias@gpcorpbr.com"><img src="https://img.shields.io/badge/Email-C24020?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/AlyssonCaputti?tab=repositories"><img src="https://img.shields.io/badge/Repos-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
-
-<br/><br/>
-<sub><code>$ exit 0</code>, mas só quando o dado realmente chegou</sub>
 
 </div>
