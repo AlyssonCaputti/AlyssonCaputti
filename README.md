@@ -1,6 +1,6 @@
 # Oi, eu sou o Alysson 👋
 
-Engenheiro de Dados, em Curitiba.
+Engenheiro de Dados, em Curitiba
 
 Hoje eu cuido da engenharia de dados ponta a ponta na empresa onde trabalho:
 arquitetei o hub de dados do zero, levo o **SAP Business One** até as bases
